@@ -1,0 +1,12 @@
+# Node modules and build output
+node_modules/
+dist/
+*.log
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+
+package-lock.json
